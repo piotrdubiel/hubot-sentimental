@@ -23,7 +23,7 @@
     "url": "https://github.com/hubot-scripts/hubot-sentimental/issues"
   },
   "dependencies": {
-    "Sentimental": "0.0.4",
+    "Sentimental": "piotrdubiel/Sentimental",
     "redis": ">= 0.10.0"
   },
   "devDependencies": {
